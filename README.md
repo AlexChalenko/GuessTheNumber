@@ -10,7 +10,7 @@
 
 ### Single Responsibility Principle (Принцип единственной обязанности)
 
-лассы `ConsoleUserInput`, `ConsoleUserOutput`, и `GameSettings` каждый отвечает только за одну область функциональности. `ConsoleUserInput` обрабатывает ввод пользователя, `ConsoleUserOutput` – вывод информации пользователю, а `GameSettings` хранит настройки игры​.
+Классы `ConsoleUserInput`, `ConsoleUserOutput`, и `GameSettings` каждый отвечает только за одну область функциональности. `ConsoleUserInput` обрабатывает ввод пользователя, `ConsoleUserOutput` – вывод информации пользователю, а `GameSettings` хранит настройки игры​.
 
 ### Open/Closed Principle (Принцип открытости/закрытости)
 
